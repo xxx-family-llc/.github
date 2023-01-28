@@ -1,16 +1,24 @@
-![Logo XXX Family LLC](https://previews.dropbox.com/p/thumb/ABzUCVu_QTCnCqn4OYU8SRclZSVtiTcgdRqKufJp-J91IKtu1tJia95jHteJxJ9eNOpwhbOVdHudF0GdECEfkD--QTXBejreQlMVoCQA6Qya3lxShJONU2567sH_T9bmD9nii6NnPNXx7pvOueGG46drS6Xc2kw0ZhMQbP_TJne8mOSm2PaWnOzwtGHh2SWFEhBnpd9G1xXeWusjeY0JGLpl0bw0IeJ2qaKmrHkmuFkHwtrivlYOK4xGDU4xi7E2wtyCuT39UqJiODpDUuABOTwQqZ3ClLzgk_yhfhtyeGVqZF2wLm7AnFl24euVmkCbGjIoDMmIPNcHyDOA-I7JoNxFnyGxRBrtCFnxEbDePb5Ed-RbK0kN8qcikERZHaMc-rw/p.png) 
+![Logo XXX Family LLC](http://a0766192.xsph.ru/public/template.png) 
 
 
-## Get Involved
+## Facts about XXX Family, LLC
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+The list below is official, these facts were published by the CEO of XXX Family, LLC
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+* first
+* second
+* third
 
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+## Our developments
 
-----
+The list below is official, these applications, modules, websites have been developed by XXX Family, in-house development staff.
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+* first
+* second
+* third
+
+## Our technology stack
+
+* first
+* second
+* third
