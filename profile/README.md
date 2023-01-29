@@ -6,7 +6,7 @@
 The list below is official, these facts were published by the CEO of XXX Family, LLC
 
 * Date of foundation 5 june 2018 (06/05/2018)
-* The abbreviation XXX means 30, the founder's birthday is July 30
+* The abbreviation XXX means 30, the CEO's birthday is July 30
 * Previously, the team consisted of beatmakers, songwriters, UX & UI designers (old XXX Family Gang)
 
 ## Our developments
