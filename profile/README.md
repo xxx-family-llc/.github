@@ -1,4 +1,4 @@
-![Logo XXX Family LLC](http://a0766192.xsph.ru/public/template.png) 
+![Logo XXX Family LLC](http://crystal.com.by/public/j7WMqTq9rwZpFHNoSQ9ClMjjZEtdz5s2o6v5ZbGi.png) 
 
 
 ## Facts about XXX Family, LLC
