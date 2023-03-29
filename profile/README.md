@@ -12,15 +12,17 @@ The list below is official, these facts were published by the CEO of XXX Family,
 ## Our developments
 
 The list below is official, these applications, modules, websites have been developed by XXX Family, in-house development staff.
+( libraries in C and C++ )
 
-* СrystalAuth
-* InnerFire
-* großExplosion
-* kleinExplosion
+* СrystalAuth - Multi-factor authentication system
+* InnerFire - Anti-robot system
+* großExplosion - Data encryption system
+* kleinExplosion - Pseudorandom number generation system
+* TrueVision - Crystal managment system (admin dashboard)
 
 ## Our technology stack
 
-* OS: Ubuntu , Debian, CentOS
-* Languages: PHP, C, C++, C#
+* OS: Unix systems
+* Languages: PHP, C, C++
 * Databases: MySQL, PosgresSQL, MongoDB
 * UX & UI: React, Vue
