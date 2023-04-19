@@ -24,5 +24,5 @@ The list below is official, these applications, modules, websites have been deve
 
 * OS: Unix systems
 * Languages: PHP, C, C++
-* Databases: MySQL, PosgresSQL, MongoDB
+* Databases: MySQL, PostgreSQL, MongoDB
 * UX & UI: React, Vue
