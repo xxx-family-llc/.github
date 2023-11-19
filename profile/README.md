@@ -20,6 +20,6 @@ The list below is official, these applications, modules, websites have been deve
 ## Our technology stack
 
 * OS: Unix systems
-* Languages: PHP, C, C++
-* Databases: MySQL, PostgreSQL, MongoDB
+* Languages: PHP, Ruby, C, C++
+* Databases: MySQL, PostgreSQL, MongoDB, Redis
 * UX & UI: React, Vue
