@@ -1,6 +1,3 @@
-![Logo XXX Family LLC](http://crystal.com.by/public/j7WMqTq9rwZpFHNoSQ9ClMjjZEtdz5s2o6v5ZbGi.png) 
-
-
 ## Facts about XXX Family, LLC
 
 The list below is official, these facts were published by the CEO of XXX Family, LLC
