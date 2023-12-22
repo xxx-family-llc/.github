@@ -22,4 +22,4 @@ The list below is official, these applications, modules, websites have been deve
 * OS: Unix systems
 * Languages: PHP, Ruby, C, C++
 * Databases: MySQL, PostgreSQL, MongoDB, Redis
-* UX & UI: React, Vue
+* JS Frameworks: React, Vue
